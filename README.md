@@ -39,6 +39,6 @@ To use this project, you need to run the provided Python script. You can also in
 
 This project demonstrates how to build a machine learning model for predicting house prices. It involves various steps, including data cleaning, exploratory data analysis, feature engineering, model building, and model evaluation. The final model can be used to make predictions about house prices in Bengaluru based on the total square footage, number of bathrooms, number of bedrooms, and location.
 
-##Acknowledgement
+## Acknowledgement
 
 The dataset used in this project is provided by [www.Kaggl.com](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
