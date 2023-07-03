@@ -1,7 +1,5 @@
 # Bengaluru House Price Prediction
 
-This project is about predicting house prices in Bengaluru, India. The dataset used in this project contains various details about houses in Bengaluru, such as the total square footage, number of bedrooms, number of bathrooms, and location.
-
 ## Project Description
 
 The project involves several steps:
